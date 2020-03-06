@@ -1,0 +1,47 @@
+1. create two variables named myvar1 and myvar2. assign a string of a number to myvar1 and a normal number to myvar2
+2. log both of these variables so they showup as myvar1myvar2 (no space)
+3. log a setence that says 'myvar1 is less than myvar2'. make sure its true
+4. make a variable called favoritecolor and set it to your favorite color
+5. log 'my favorite color is favoritecolor'
+6. change your favorite color to something else
+7. log 'my favorite color changed to favoritecolor'
+8. create an array named myarray holding 5 NUMBERS
+9. loop through the array and log each number in the array individually
+10. track the total of all these numbers and log the TOTAL variable only. (not num + num + num)
+11. create an array of the colors of the rainbow
+12. log 'the colors of the rainbow include ' and then all the colors in your array. this should only be 1 log statement. look up the .join function for javascript arrays on google. the colors should be separated by a comma AND a space.
+13. create a var holding 1000 as a number
+14. create a var holding 20
+15. create a var holding 41
+16. set a variable holding 1000 divided by 20
+17. create a variable holding the REMAINDER of 1000 divided by 20. google the modulus javascript operator
+18. log both the divide and remainder answers
+19. create an object with 3 keys. the keys are first_name, last_name, and age. set them to your name and age.
+20. log (my name is first_name last_name and i am age years old.
+21. add a location key to your object.
+22. log (my name is first_name last_name and i am age years old and i love in location)
+23. create a var holding the true boolean
+24. create a var holding a false boolean
+25. run an if statement that checks if your true variable is true. if it is, it logs (this should show in the log)
+26. create an if statement that checks if your false var is true. if it is true, it logs (this should NOT show in the log)
+27. create an if statement that checks if your false var is false. if it is, it print ('this false boy should show in the log)
+28. set your var holding true to false
+29. create another if statement checking if the var you just changed it true. if it is, it should log (i swear this BETTER NOT show in the log) and an else statement that says (i know how to make an else work)
+30. pat yourself on your back for your work so far.
+31. create an array holding 4 true bools and 3 false bools in a random order
+32. loop through the array and for each item in the array, if its true, print (true INDEX_OF_CURRENT_ITEM_IN_ARRAY).
+33. loop through the array and for each item if its true, print (true TRUE_COUNTER).  hint: you should track how many trues youve seen for each one in the loop and increment when you find one
+34. make a key on the object you made earlier called truecounter and set it to how many trues you found in the loop above (you should have this tracked already)
+35. log (there were TRUECOUNT many trues in the array)). this should print from the truecount on your object
+36. create a variable called amigay and set it to false
+37. create an if statement that checks if your true counter is greater than 3. if it is, set your amigay variable to true
+38. log (kiru is gay: amigay) . hint, you are
+39. create a function called printFullName that accepts two arguments and name them name1 and name2. the function should log (printing full name: name1 name2)
+40. invoice the function using your object from earlier first_name and last_name
+41. create a function called printNumbers that accepts an array as its only argument. the function should loop through whatever array is supplied and console logs each number
+42. invoice the function with your number array from earlier
+43. create a function called printItAll that accepts three arguments named name1, name2, numarray. this function should invoice the previous two functions with the correct arguments supplied.
+44. invoke the printItAll function
+45. create a function called iAmACodingGod that takes zero arguments. it should 'my name is kiru and i am the coding god'
+46. invoke the iAmACodingGod function
+47. smoke some legal
